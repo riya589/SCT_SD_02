@@ -32,12 +32,11 @@ Examples:
 - CSS3 (Responsive Layout, Gradients, Animations)  
 - JavaScript (Vanilla) for core game logic  
 - canvas-confetti for visual celebration  
-- Pixabay for sound and music assets
 
 📁 Project Structure
-├── index.html # Main structure and DOM elements
-├── style.css # Styles, themes, and animations
-├── script.js # Game logic, hints, shop, levels
-└── README.md # Project overview and documentation
+1. index.html # Main structure and DOM elements
+2. style.css # Styles, themes, and animations
+3. script.js # Game logic, hints, shop, levels
+4. README.md # Project overview and documentation
 
 Made with 💙 by Riya
