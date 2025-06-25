@@ -42,10 +42,10 @@ Example themes include:
 - Paradise, Butterfly Meadow, Castle, Moonlight, London, and more.
 
 ## 📂 Project Structure
-├── index.html # Main HTML page
-├── style.css # All styling and themes
-├── script.js # Game logic and interactivity
-└── README.md # Project documentation
+(i) index.html # Main HTML page
+(ii) style.css # All styling and themes
+(iii)  script.js # Game logic and interactivity
+(iv)  README.md # Project documentation
 
 ## 💡 Credits
 
