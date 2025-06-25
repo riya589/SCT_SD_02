@@ -1,64 +1,43 @@
-# 🎮 Number Guessing Game
+🎮 Number Guessing Game Web App  
+An interactive and gamified number guessing game designed with a vibrant UI, immersive themes, and smart hint mechanics. Developed as part of a creative front-end project during a software development internship.
 
-An interactive, themed number guessing game built with HTML, CSS, and JavaScript. Players earn coins and diamonds, use hints, unlock beautiful backgrounds, and climb levels by guessing numbers within a set range and time limit!
+🌟 Features  
+🔢 Number Guessing Gameplay:  
+Guess a secret number in a dynamic range within 30 seconds and limited attempts.  
 
-## 🚀 Features
+💡 Hint System:  
+🧠 Free Hints (Odd/Even, Range, Digit Sum, Multiples)  
+💎 Diamond Hints (Fun trivia & pop culture references)
 
-- 🎯 Number guessing with increasing difficulty
-- 🧠 Free hints (odd/even, range, digit sum, trivia)
-- 💎 Diamond hints with pop-culture references
-- 🎨 Theme shop with unlockable backgrounds
-- ⏱️ Countdown timer per round
-- 🥇 Score, coin, and diamond tracking
-- 🎉 Confetti on correct guesses
-- ⏸️ Pause, resume, and mute controls
-- 🔊 Background music and sound effects
-- 📱 Mobile-friendly responsive design
+🛍️ Theme Shop:  
+Unlock and apply gorgeous animated backgrounds using in-game coins and diamonds.  
+Examples:  
+🌴 Paradise | 🏰 Castle | ❄️ Snow | 🦋 Butterfly Meadow | 🌙 Moonlight  
 
-## 🛠 Tech Stack
+🧩 Game Enhancements:  
+🎉 Confetti celebration on correct guesses  
+🪙 Earn Coins (+10) and 💎 Diamonds (+1) each level  
+⏸️ Pause, Resume, and Mute functionality  
+🧠 Trivia-based learning for number associations  
+🔊 Background music and sound effects  
+📱 Fully responsive and mobile-friendly UI
 
-- **HTML5** – Structure
-- **CSS3** – Styling and responsive layout
-- **JavaScript (Vanilla)** – Game logic, DOM manipulation
-- **Canvas-confetti** – For celebratory effects
-- **Pixabay audio** – For royalty-free music and sound
+🎨 UI Highlights  
+✨ Glow effects, animated gradients, hover scaling  
+🌈 Smooth transitions and theme color shifts  
+🖼️ Backgrounds with immersive overlays and light/dark balance
 
-## 🧩 How to Play
+🛠️ Tech Stack  
+- HTML5  
+- CSS3 (Responsive Layout, Gradients, Animations)  
+- JavaScript (Vanilla) for core game logic  
+- canvas-confetti for visual celebration  
+- Pixabay for sound and music assets
 
-1. Click **Start Game** to begin.
-2. Guess a number within the shown range.
-3. Use **Free Hints** or **Diamond Hints** if stuck.
-4. Correct guesses earn **coins** (10) and **diamonds** (1).
-5. Spend earned currency in the **Shop** to unlock themes.
-6. Guess quickly—each level has a 30-second timer!
+📁 Project Structure
+├── index.html # Main structure and DOM elements
+├── style.css # Styles, themes, and animations
+├── script.js # Game logic, hints, shop, levels
+└── README.md # Project overview and documentation
 
-## 🖼️ Theme Shop
-
-Unlock fun themes using:
-- 🪙 Coins (for common themes)
-- 💎 Diamonds (for premium themes)
-
-Example themes include:
-- Paradise, Butterfly Meadow, Castle, Moonlight, London, and more.
-
-## 📂 Project Structure
-(i) index.html # Main HTML page
-(ii) style.css # All styling and themes
-(iii)  script.js # Game logic and interactivity
-(iv)  README.md # Project documentation
-
-## 💡 Credits
-
-- Confetti: [canvas-confetti](https://www.npmjs.com/package/canvas-confetti)
-- Background Images: [Pinterest](https://www.pinterest.com/)
-- Fonts: [Google Fonts](https://fonts.google.com/)
-
-## 🧪 Future Enhancements
-
-- 🎮 Add user authentication and leaderboard
-- 📊 Analytics dashboard to view guess patterns
-- 🔄 Save and resume feature
-- 🌐 Multiplayer mode
-
-  
-Made with ❤️ by Riya
+Made with 💙 by Riya
