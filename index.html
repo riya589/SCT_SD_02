@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Number Guessing Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="overlay"></div>
+    <div id="header">
+        <div id="left-header">
+            <div id="diamondDisplay">Diamonds: 0 💎</div>
+            <div id="coinDisplay">Coins: 0 🪙</div>
+            <div id="shopIcon">Shop 🛒</div>
+        </div>
+        <div>
+            <button id="pauseButton">Pause ⏸️</button>
+            <div id="pauseMenu">
+                <button id="resumeButton">Resume ▶️</button>
+                <button id="restartButton">Restart 🔄</button>
+                <button id="muteButton">Mute 🔇</button>
+            </div>
+        </div>
+    </div>
+    <div class="game-content">
+        <h1> NUMBER GUESSING GAME 🧩 </h1>
+        <div id="levelDisplay">Level: 1</div>
+        <div id="rangeDisplay">Range: 1 to 100</div>
+        <div id="scoreDisplay">Score: 0</div>
+        <div id="timerDisplay"></div>
+        <div id="gameStatus">Click Start Game to begin!</div>
+        <input type="number" id="guessInput" placeholder="Enter your guess" min="1" autocomplete="off" autocorrect="off">
+        <button id="guessButton">Submit Guess</button>
+        <button id="hintButton">Get Hint (5 Free)</button>
+        <button id="diamondHintButton">Diamond Hint (1 Diamond)</button>
+        <div id="hintDisplay"></div>
+        <button id="startButton">Start Game</button>
+        <select id="themeSelect"></select>
+    </div>
+    <div id="shopModal">
+        <h2>Theme Shop 🖼️</h2>
+        <div id="shopContent"></div>
+        <button id="closeShop">Close</button>
+    </div>
+    <canvas id="confettiCanvas"></canvas>
+
+    <audio id="backgroundMusic" loop preload="auto">
+        <source src="https://cdn.pixabay.com/audio/2024/10/28/audio_5c1f2b6b1d.mp3" type="audio/mpeg">
+    </audio>
+    <audio id="coinSound" preload="auto">
+        <source src="https://cdn.pixabay.com/audio/2022/03/10/audio_5f1b8b3b9c.mp3" type="audio/mpeg">
+    </audio>
+    <audio id="hintSound" preload="auto">
+        <source src="https://cdn.pixabay.com/audio/2022/03/10/audio_8a7b6c4e2f.mp3" type="audio/mpeg">
+    </audio>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
