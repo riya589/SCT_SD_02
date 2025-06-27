@@ -1,86 +1,75 @@
-🎯 Number Guessing Game
-A dynamic, theme-rich number guessing game that combines logical challenges with a reward system of coins and diamonds. The game features multiple hints, vibrant themes, smooth UI transitions, and engaging audio-visual effects. Built for fun and educational guessing!
+# 🎯 NUMBER GUESSING GAME
 
-🌟 Features
-🧠 Core Gameplay
+A **dynamic, theme-rich number guessing game** that combines logic, trivia, and rewards! Guess the secret number, use clever hints, earn coins and diamonds, unlock stunning themes, and enjoy smooth gameplay with audio-visual effects.
 
-Guess a number between 1 and 100 (later levels go up to 1000!)
+---
 
-Submit guesses and receive immediate feedback: Too high? Too low?
+## 🌟 FEATURES
 
-Beat the timer to win the round.
+### 🧠 **CORE GAMEPLAY**
+- Guess a number between **1 and 100** (in later levels, up to **1000**!)
+- Receive real-time feedback: **"Too high"**, **"Too low"**, or **"Correct!"**
+- Timer-based challenge to increase excitement
 
-💎 Hint System
+### 💡 **HINT SYSTEM**
+- **5 FREE HINTS** per level:
+  - Even/Odd
+  - Number Range
+  - Multiples
+  - Digit Sum
+  - Trivia (fun facts)
+- **DIAMOND HINTS** with pop culture & logic references  
+  _e.g., “How many seasons does **Friends** have?”_
 
-5 Free Hints per round:
+### 🛍️ **IN-GAME THEME SHOP**
+- Earn **🪙 COINS** and **💎 DIAMONDS** through correct guesses
+- Unlock **10+ BEAUTIFUL THEMES**:
+  - 🏖️ Paradise  
+  - 🦋 Butterfly Meadow  
+  - ❄️ Snow  
+  - 🌇 Paris  
+  - 🏰 Castle  
+  - and many more!
 
-Even/Odd, Range, Multiples, Digit Sum, Trivia
+### 🎨 **THEME SELECTOR**
+- Choose your favorite unlocked theme using a dropdown
+- Themes instantly change the game’s background
 
-Diamond Hints:
+### 🎉 **REWARDS & PROGRESSION**
+- 🪙 **10 Coins** per correct answer  
+- 💎 **1 Diamond** per correct answer  
+- Use coins/diamonds to:
+  - Unlock themes
+  - Access Diamond Hints
+- **Dynamic difficulty**: Levels get harder as you progress!
 
-Pop-culture & logic-based clues (e.g., “How many seasons does Friends have?”)
+### 🎵 **AUDIO-VISUAL ENHANCEMENTS**
+- Background music 🎶
+- Sound effects for hints and wins
+- Confetti explosion on correct guess 🎊
+- **Pause / Resume / Mute** buttons
+- Vibrant animations and UI transitions
 
-🛍️ In-Game Shop
+### 📱 **RESPONSIVE DESIGN**
+- Mobile and desktop compatible
+- Custom fonts and theme-based layout
+- Smooth performance across browsers
 
-Spend Coins & Diamonds earned by correct guesses
+---
 
-Unlock 10+ beautiful visual themes like 🌺 Tulips, ❄️ Snow, 🌇 Paris, and more!
+## 🛠️ TECH STACK
 
-🎨 Theme Selector
+- **HTML5** – Game structure
+- **CSS3** – Styling, animations, transitions
+- **JavaScript (Vanilla)** – Core logic, hints, themes, audio, and interactivity
 
-Change the game’s background instantly using the dropdown or shop
+---
 
-🎉 Rewards
+## 🚀 HOW TO RUN
 
-Earn:
-
-🪙 10 Coins for each correct guess
-
-💎 1 Diamond for each correct answer
-
-Use these to unlock premium hints or buy new themes
-
-🎵 Audio & Visual Enhancements
-
-Background music and sound effects
-
-Confetti explosion for correct answers
-
-Mute & pause controls
-
-Mobile-friendly layout with responsive design
-
-🧩 Dynamic Levels
-
-Progressively harder levels with increasing difficulty
-
-Score tracking and high score persistence
-
-📱 UI Highlights
-Vibrant comic-style fonts with dynamic animations
-
-Bounce, pulse, glow, and hover effects for interactive feedback
-
-Confetti canvas effect for celebration
-
-Modal shop with a clean grid layout for themes
-
-🛠️ Tech Stack
-HTML5 – Game structure
-
-CSS3 – Styling, animations, responsive layout
-
-JavaScript (Vanilla) – Game logic, DOM manipulation, timer, shop, hint engine, and audio control
-
-🚀 How to Run
-Clone or download this repository
-
-Open index.html in any modern browser
-
-Start guessing and having fun!
-
-💡 Inspiration
-This game blends educational logic with fun rewards, aiming to sharpen number sense while entertaining the user with stylish visuals and trivia-based engagement.
+1. Download or clone the repository  
+   ```bash
+   git clone https://github.com/your-username/number-guessing-game.git
 
 
-Made with 💙 by Riya
+## Made with 💙 by Riya
