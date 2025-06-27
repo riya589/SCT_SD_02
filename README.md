@@ -43,12 +43,6 @@ A **dynamic, theme-rich number guessing game** that combines logic, trivia, and 
   - Access Diamond Hints
 - **Dynamic difficulty**: Levels get harder as you progress!
 
-### 🎵 **AUDIO-VISUAL ENHANCEMENTS**
-- Background music 🎶
-- Sound effects for hints and wins
-- Confetti explosion on correct guess 🎊
-- **Pause / Resume / Mute** buttons
-- Vibrant animations and UI transitions
 
 ### 📱 **RESPONSIVE DESIGN**
 - Mobile and desktop compatible
@@ -65,11 +59,7 @@ A **dynamic, theme-rich number guessing game** that combines logic, trivia, and 
 
 ---
 
-## 🚀 HOW TO RUN
 
-1. Download or clone the repository  
-   ```bash
-   git clone https://github.com/your-username/number-guessing-game.git
 
 
 ## Made with 💙 by Riya
