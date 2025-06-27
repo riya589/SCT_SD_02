@@ -1,28 +1,86 @@
-🌷 Number Guessing Game
-A vibrant, interactive web-based number guessing game with a butterfly-tulip garden aesthetic. Players guess numbers, unlock themes, earn coins and diamonds, and enjoy audio effects, a 30-second timer, and confetti animations. This project was created as part of a software development internship at SkillCraft Technology.
-🌈 Features
-🎮 Gameplay:
-Guess numbers (1–100 for levels 1–50; 1–1000 for levels 51+).
-10 attempts per level with a 30-second timer.
-💰 Rewards:
-Earn 10 coins 🪙 and 1 diamond 💎 per correct guess.
-💡 Hints:
-Free hints (5 per level, e.g., odd/even, range).
-Diamond hints (pop culture trivia, e.g., Game of Thrones episodes, Level 2+).
-🖼️ Themes:
-10 unlockable backgrounds (5 coin-based at 50 coins, 5 diamond-based at 10 diamonds).
-Default: Tulip Garden.
-Examples: Butterfly Meadow, Tulip Sunset.
-📱 Responsive Design: Optimized for mobile (320px) and desktop (1440px).
-🎉 Beautiful UI: Smooth gradient animations, confetti effects, and interactive pause menu with shop.
+🎯 Number Guessing Game
+A dynamic, theme-rich number guessing game that combines logical challenges with a reward system of coins and diamonds. The game features multiple hints, vibrant themes, smooth UI transitions, and engaging audio-visual effects. Built for fun and educational guessing!
+
+🌟 Features
+🧠 Core Gameplay
+
+Guess a number between 1 and 100 (later levels go up to 1000!)
+
+Submit guesses and receive immediate feedback: Too high? Too low?
+
+Beat the timer to win the round.
+
+💎 Hint System
+
+5 Free Hints per round:
+
+Even/Odd, Range, Multiples, Digit Sum, Trivia
+
+Diamond Hints:
+
+Pop-culture & logic-based clues (e.g., “How many seasons does Friends have?”)
+
+🛍️ In-Game Shop
+
+Spend Coins & Diamonds earned by correct guesses
+
+Unlock 10+ beautiful visual themes like 🌺 Tulips, ❄️ Snow, 🌇 Paris, and more!
+
+🎨 Theme Selector
+
+Change the game’s background instantly using the dropdown or shop
+
+🎉 Rewards
+
+Earn:
+
+🪙 10 Coins for each correct guess
+
+💎 1 Diamond for each correct answer
+
+Use these to unlock premium hints or buy new themes
+
+🎵 Audio & Visual Enhancements
+
+Background music and sound effects
+
+Confetti explosion for correct answers
+
+Mute & pause controls
+
+Mobile-friendly layout with responsive design
+
+🧩 Dynamic Levels
+
+Progressively harder levels with increasing difficulty
+
+Score tracking and high score persistence
+
+📱 UI Highlights
+Vibrant comic-style fonts with dynamic animations
+
+Bounce, pulse, glow, and hover effects for interactive feedback
+
+Confetti canvas effect for celebration
+
+Modal shop with a clean grid layout for themes
+
 🛠️ Tech Stack
-HTML5: Structure for game interface and audio elements.
-CSS3: Responsive design with Google Fonts (Comic Neue, Montserrat), gradient animations, and hover effects.
-JavaScript (Vanilla): Game logic, DOM manipulation, audio handling, and confetti animations.
-📁 Project Structure
-1. index.html # Main structure and DOM elements
-2. style.css # Styles, themes, and animations
-3. script.js # Game logic, hints, shop, levels
-4. README.md # Project overview and documentation
+HTML5 – Game structure
+
+CSS3 – Styling, animations, responsive layout
+
+JavaScript (Vanilla) – Game logic, DOM manipulation, timer, shop, hint engine, and audio control
+
+🚀 How to Run
+Clone or download this repository
+
+Open index.html in any modern browser
+
+Start guessing and having fun!
+
+💡 Inspiration
+This game blends educational logic with fun rewards, aiming to sharpen number sense while entertaining the user with stylish visuals and trivia-based engagement.
+
 
 Made with 💙 by Riya
