@@ -61,5 +61,3 @@ A **dynamic, theme-rich number guessing game** that combines logic, trivia, and 
 
 
 
-
-## Made with 💙 by Riya
