@@ -2,8 +2,6 @@
 
 A **dynamic, theme-rich number guessing game** that combines logic, trivia, and rewards! Guess the secret number, use clever hints, earn coins and diamonds, unlock stunning themes, and enjoy smooth gameplay with audio-visual effects.
 
----
-
 ## 🌟 FEATURES
 
 ### 🧠 **CORE GAMEPLAY**
@@ -49,15 +47,12 @@ A **dynamic, theme-rich number guessing game** that combines logic, trivia, and 
 - Custom fonts and theme-based layout
 - Smooth performance across browsers
 
----
-
 ## 🛠️ TECH STACK
 
 - **HTML5** – Game structure
 - **CSS3** – Styling, animations, transitions
 - **JavaScript (Vanilla)** – Core logic, hints, themes, audio, and interactivity
 
----
 
 
 
